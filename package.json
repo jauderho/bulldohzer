@@ -22,21 +22,21 @@
   "dependencies": {
     "@commonshost/resolvers": "^1.4.0",
     "@commonshost/word-lists": "^1.0.1",
-    "@elstats/percentile": "^3.3.0",
-    "chalk": "^5.0.1",
-    "dns-packet": "^5.2.1",
-    "dohnut": "^4.7.0",
-    "ora": "^8.0.1",
+    "@elstats/percentile": "^3.4.0",
+    "chalk": "^5.4.1",
+    "dns-packet": "^5.6.1",
+    "dohnut": "^4.11.0",
+    "ora": "^8.1.1",
     "please-upgrade-node": "^3.2.0",
     "sparkly": "^6.0.0",
     "waste": "^1.0.0",
-    "yargs": "^17.5.1"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "blue-tape": "^1.0.0",
     "snazzy": "^9.0.0",
-    "standard": "^17.0.0",
-    "tape": "^5.5.3"
+    "standard": "^17.1.2",
+    "tape": "^5.9.0"
   },
   "engines": {
     "node": ">=11.7.0"
